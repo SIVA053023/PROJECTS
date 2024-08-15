@@ -1,0 +1,28 @@
+
+
+button {
+    border: none;
+    color: white; /* Text color */
+    padding: 10px 20px; /* Padding for button */
+    text-align: center; /* Center align text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Align buttons in a line */
+    font-size: 16px; /* Font size */
+    margin: 5px; /* Margin around buttons */
+    cursor: pointer; /* Pointer cursor on hover */
+    border-radius: 25px !important; /* Rounded corners with !important */
+    transition: background-color 0.3s; /* Smooth transition for background color */
+}
+#Green{
+    background-color: green;
+        
+}
+#Red{
+    background-color: red;
+}
+#Blue{
+    background-color: blue;
+}
+button:hover{   
+    opacity: 0.5;
+}
