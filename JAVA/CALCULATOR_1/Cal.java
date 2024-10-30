@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// here we are writing the code for the calculator
 class CAl{
     public static void main(String[] args) {
         int  Operator,n1,n2;
